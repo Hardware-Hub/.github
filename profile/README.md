@@ -1,7 +1,6 @@
 # Hardware-Hub  
 
-Communauté et entreprise française basée sur l'entraide et le partage de connaissances.  
-Hardware/Software/Dev ou tout autre catégorie touchant de prêt ou de loin  à l'informatique.
+The ultimate PC configurator for cost-optimized, verified and fully compatible setups. 
   
-Website : xxx (soon v1 release)  
+Website : https://hardware-hub.fr 
 Discord : https://discord.gg/hardware
